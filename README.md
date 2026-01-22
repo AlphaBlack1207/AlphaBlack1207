@@ -1,45 +1,45 @@
-🚀 Desarrollador Android | Kotlin & Jetpack Compose
+🚀 Android Developer | Kotlin & Jetpack Compose
 
-👨‍💻 Sobre mí
+👨‍💻 About Me
 
-Desarrollador Android con 1 año de experiencia profesional en el desarrollo de aplicaciones nativas para Android. Especializado en Kotlin y Jetpack Compose para crear interfaces modernas y eficientes.
+Computer Science Engineer and Android Developer with 1 year of professional experience in native Android application development. Specialized in Kotlin and Jetpack Compose to create modern and efficient interfaces.
 
-🛠️ Tecnologías y Habilidades
+🛠️ Technologies & Skills
 
-💻 Especializado en:
+💻 Specialized in:
 
-· Lenguaje: Kotlin (nivel avanzado)
-· UI Moderna: Jetpack Compose (experiencia práctica)
-· Arquitectura: MVVM, Clean Architecture
-· Android SDK: Componentes nativos y APIs de sistema
-· Persistencia: Room Database, DataStore
-· Asincronía: Coroutines, Flow
+· Language: Kotlin (advanced level)
+· Modern UI: Jetpack Compose (hands-on experience)
+· Architecture: MVVM, Clean Architecture
+· Android SDK: Native components and system APIs
+· Persistence: Room Database, DataStore
+· Asynchrony: Coroutines, Flow
 · Networking: Retrofit, OkHttp
-· Dependencias: Dagger Hilt / Koin
+· Dependency Injection: Dagger Hilt / Koin
 
-📚 Conocimientos adicionales:
+📚 Additional Knowledge:
 
-· Java (nivel básico)
-· Desarrollo Web (conocimientos básicos)
-· Git y control de versiones
-· Pruebas unitarias y de UI
+· Java (basic level)
+· Web Development (basic knowledge)
+· Git and version control
+· Unit and UI testing
 · Material Design 3
-· CI/CD básico para Android
+· Basic CI/CD for Android
 
-📱 Experiencia Profesional
+📱 Professional Experience
 
-1 año desarrollando aplicaciones Android nativas:
+1 year developing native Android applications:
 
-· Desarrollo y mantenimiento de APKs nativas
-· Implementación de interfaces con Jetpack Compose
-· Integración con APIs REST
-· Optimización de rendimiento y experiencia de usuario
-· Publicación en Google Play Store
+· Development and maintenance of native APKs
+· Implementation of interfaces with Jetpack Compose
+· Integration with REST APIs
+· Performance and user experience optimization
+· Google Play Store publication
 
-🎯 Enfoque y Metodología
+🎯 Approach & Methodology
 
-· Desarrollo de aplicaciones escalables y mantenibles
-· Código limpio y bien estructurado
-· Testing como parte integral del desarrollo
-· Colaboración en equipo usando metodologías ágiles
-· Aprendizaje continuo de las mejores prácticas de Android
+· Development of scalable and maintainable applications
+· Clean and well-structured code
+· Testing as an integral part of development
+· Team collaboration using agile methodologies
+· Continuous learning of Android best practices
